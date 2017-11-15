@@ -1,0 +1,1 @@
+select st_summary(geom) from roads limit 10
